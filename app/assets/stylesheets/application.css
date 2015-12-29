@@ -12,4 +12,7 @@
  *
  *= require_tree .
  *= require_self
+ *= require_agency.css
+ *= require_bootstrap.css
+ *= require_bootstrap.min.css
  */

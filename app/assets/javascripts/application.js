@@ -15,3 +15,11 @@
 //= require twitter/bootstrap
 //= require turbolinks
 //= require_tree .
+//= require agency.js
+//= require bootstrap.js
+//= require bootstrap.js.coffee
+//= require cbpAnimatedHeader.js
+//= require classie.js
+//= require jquery.js
+//= require contact_me.js
+
