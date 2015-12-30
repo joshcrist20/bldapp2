@@ -55,6 +55,8 @@ gem "font-awesome-rails"
 
 gem "cancan"
 
+gem 'devise_invitable', '~> 1.5.2'
+
 
 
 
