@@ -4,6 +4,12 @@ Rails.application.routes.draw do
 
   get 'projects' => "pages#projects"
 
+  get 'honeydipped' => "pages#honeydipped"
+  get 'crowdbrewed' => "pages#crowdbrewed"
+  get 'vinylloop' => "pages#vinylloop"
+  get 'topoftheworldlondon' => "pages#topoftheworldlondon"
+  get 'northernloom' => "pages#northernloom"
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
