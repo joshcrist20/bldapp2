@@ -53,6 +53,8 @@ gem 'devise'
 
 gem "font-awesome-rails"
 
+gem "cancan"
+
 
 
 
